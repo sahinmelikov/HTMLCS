@@ -1,0 +1,32 @@
+.btn1_bg{
+
+background-color: white;
+border: 1px solid #bb9d3a;
+}
+
+.btn1_bg:hover {
+background-color: #bb9d3a;
+color: aliceblue;
+}
+.text-cl{
+color: #bb9d3a;
+}
+.bg-cl{
+    background-color: #bb9d3a;
+    }
+
+.input-student{
+width: 11cm;
+height: 1.1cm;
+background-color: #ccc;
+border: none;
+}
+.btn-student{
+width: 3cm;
+height: 1.3cm;
+background-color: #bb9d3a;
+border: none;
+}
+.mt-80{
+
+margin-top: 160px;}
